@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
   "resourcesTemplate": "https://matestorage24.blob.core.windows.net/task-artifacts/task4/exported-template.json?sv=2025-05-05&se=2025-10-15T22%3A43%3A59Z&sr=b&sp=r&sig=Vx7illWYxxzXa55ibYOZ%2FvC%2FDgItRiwA59ftJ3WfeAo%3D"
+=======
+  "resourcesTemplate": "https://matestorage24.blob.core.windows.net/task-artifacts/task4/exported-template.json?sv=2025-05-05&se=2025-10-24T22%3A40%3A33Z&sr=b&sp=r&sig=zf8AcLBtiMV0FBmwsnAPhLRz2kedTz%2BcCJCMcW7gwwI%3D"
+>>>>>>> 26b4ba6 (Reset the password)
 }
